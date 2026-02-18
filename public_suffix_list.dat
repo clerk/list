@@ -6815,7 +6815,7 @@ org.zw
 
 // newGTLDs
 
-// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-07T15:24:45Z
+// List of new gTLDs imported from https://www.icann.org/resources/registries/gtlds/v2/gtlds.json on 2026-02-18T15:14:33Z
 // This list is auto-generated, don't edit it manually.
 // aaa : American Automobile Association, Inc.
 // https://www.iana.org/domains/root/db/aaa.html
@@ -9473,7 +9473,7 @@ one
 // https://www.iana.org/domains/root/db/ong.html
 ong
 
-// onl : iRegistry GmbH
+// onl : Jolly Host, LLC
 // https://www.iana.org/domains/root/db/onl.html
 onl
 
@@ -10741,7 +10741,7 @@ weir
 // https://www.iana.org/domains/root/db/whoswho.html
 whoswho
 
-// wien : punkt.wien GmbH
+// wien : domainworx Service & Management GmbH
 // https://www.iana.org/domains/root/db/wien.html
 wien
 
@@ -10772,10 +10772,6 @@ winners
 // wme : William Morris Endeavor Entertainment, LLC
 // https://www.iana.org/domains/root/db/wme.html
 wme
-
-// wolterskluwer : Wolters Kluwer N.V.
-// https://www.iana.org/domains/root/db/wolterskluwer.html
-wolterskluwer
 
 // woodside : Woodside Petroleum Limited
 // https://www.iana.org/domains/root/db/woodside.html
